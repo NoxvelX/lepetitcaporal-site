@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://lepetitcaporal.example/sitemap-index.xml

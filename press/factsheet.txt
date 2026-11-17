@@ -1,0 +1,22 @@
+LE PETIT CAPORAL: THE ART OF COMMAND
+A Napoleonic real-time strategy game
+
+Command a Napoleonic army the way it was really done. A real-time strategy game of the art of command, painted in the colours of 1806.
+Your orders ride with couriers, your generals read them their own way, and what you know of the enemy is always late and sometimes wrong.
+
+Developer: Noxvel Studio
+Genre: Real-time strategy, historical wargame
+Setting: The Napoleonic wars, 1806–1807. The first battle is Maida, 4 July 1806
+Platform: Windows 10/11 (64-bit), Steam
+Players: Single-player
+Languages of the game: English and Russian now; Ukrainian, Spanish, French, German, Polish and Italian planned
+Status: In development. Neither a date nor a price has been announced
+
+WHAT SETS IT APART
+- Orders travel. Every order is written, handed to a courier and carried across the battlefield on horseback. Distance, roads and the enemy decide how long it takes, and whether it arrives at all.
+- Commanders think for themselves. Your subordinates read your order, weigh what they can see and act in their own way. A vague order can be misread; a clear one still leaves them room to decide how.
+- The staff sees reports, not the enemy. Your staff map shows reports, not truth. What you know of the enemy is minutes or hours old, estimated by tired officers, and sometimes simply wrong.
+- Drill by the book. Battalions form line, column and square according to the French regulations of 1791, and every change of formation takes the time it took on a real field.
+- Maida, 4 July 1806. Take the place of General Reynier on the real terrain of Calabria. History records his defeat. With the same troops and the same uncertain information, can you do better?
+
+The stills show an early version of the game and carry a note saying so. Please keep the note.
